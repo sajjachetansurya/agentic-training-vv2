@@ -1,0 +1,2 @@
+install choco by running below commmand in powershell:
+powershell -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))"
