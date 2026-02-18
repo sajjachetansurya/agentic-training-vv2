@@ -1,0 +1,41 @@
+assignment 1: Create a repo - Build a full stack app 
+    frontend - react (manual) or lovable (ai)
+    backend - your choice of framework - springboot / node / django / flask / vue js or anything
+    database - any sql or no sql database
+
+assignment 2: Learn the math behind ML algorithms. - 
+https://www.youtube.com/watch?v=cayzifH9sqc&list=PLLUFZCmqicc
+vkvCCax14T3OneUyEo2X0&index=2
+
+assignment 3: Create a repo - Build a small ML model
+
+assignment 4: Optional - use this model to predict based on the inputs coming from 
+the frontend of the full stack app you built.
+
+assignment 5: Create a repo named - abcd-agentic-training-vnr-<yourname> 
+and reference/links of other projects and use case in this repo.
+
+assignement 6: implement tokanization using any algorithm in python and push in repo 
+- abcd-agentic-training-vnr-<yourname> 
+
+assignement 7: implement cosine search and othere search algorithms in python and push in repo 
+- abcd-agentic-training-vnr-<yourname> 
+
+assignment 8: complete reading this paper - Attention is all you need
+https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf
+
+optional tasks:
+ if time permits read about langchain, langraph
+ read about database vs vector database.
+ types of vector database.
+
+make sure all are pushed in repo: abcd-agentic-training-vnr-<yourname> 
+
+before coming to next session, make sure all students have completed setup till discussed in class:
+    docker desktop
+    n8n
+    ngrok
+    integration with telegram, google, gemini, perplexity, openai, claude
+
+Google form fill by 21 feb evening 10pm ist -
+https://forms.gle/XSW9hW7PHVSdE1Qo9
