@@ -41,3 +41,5 @@ Provide the result in JSON format with a field named "customerSupport" set to tr
 =============================================================
 here is the incoming email:  {{ $json.emailBody }}
 =============================================================
+url of ollama:
+http://host.docker.internal:11434
