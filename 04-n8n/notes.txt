@@ -13,3 +13,31 @@ Integration with Google API's:
 
 install ngrok: choco install ngrok
 Cmd for setting auth token: ngrok config add-authtoken <YOUR_AUTHTOKEN>
+=============================================================
+customer support portal prompt:
+Prompt:
+
+Analyze the content of the following email and determine whether it is related to customer support. If the email pertains to any of the following topics, mark customerSupport as true; otherwise, mark it as false.
+
+Customer Support Topics Include:
+
+Questions about order status, tracking, or changes
+
+Issues with damaged or defective products
+
+Refund or return requests
+
+Subscription cancellations or adjustments
+
+Technical issues with products, website, or app
+
+Payment or billing inquiries
+
+Requests for speaking with a support representative
+
+Output:
+
+Provide the result in JSON format with a field named "customerSupport" set to true or false
+=============================================================
+here is the incoming email:  {{ $json.emailBody }}
+=============================================================
