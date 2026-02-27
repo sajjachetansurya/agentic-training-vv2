@@ -43,3 +43,5 @@ here is the incoming email:  {{ $json.emailBody }}
 =============================================================
 url of ollama:
 http://host.docker.internal:11434
+
+model : llama3.2 or qwen 
