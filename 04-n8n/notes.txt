@@ -45,3 +45,12 @@ url of ollama:
 http://host.docker.internal:11434
 
 model : llama3.2 or qwen 
+======================================
+description of data:
+Retrieves information about our customer support policies and FAQs
+
+limit: 4
+======================
+pinecone namespace: customerSupport
+pinecone index: sample
+======================
